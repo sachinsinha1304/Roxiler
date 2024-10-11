@@ -1,0 +1,12 @@
+GET http://localhost:3000/amazon/roxilier-sytem/data
+####
+GET http://localhost:3001/route?search=ol&pageNo=1&pageSize=10&month=April
+####
+GET http://localhost:3001/route/category?name=January
+
+####
+GET http://localhost:3001/route/statistics?name=January
+####
+GET http://localhost:3001/route/total-details?search=ol&pageNo=1&pageSize=10&month=April
+
+
